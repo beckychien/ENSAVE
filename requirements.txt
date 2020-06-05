@@ -1,4 +1,4 @@
-Django==3.0
+Django==3.0.7
 pymssql==2.1.4
 PyMySQL==0.9.3
 django-cors-headers
